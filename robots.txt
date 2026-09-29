@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# CONFIG: reemplazar https://example.com por el dominio final.
+Sitemap: https://example.com/sitemap.xml
